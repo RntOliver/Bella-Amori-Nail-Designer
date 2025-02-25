@@ -129,4 +129,9 @@ body{
     .apresentacao__conteudo{
        width: auto;
     }
+
+    .imagem{
+        width: 50%;
+        height: 200px;
+    }
  }
