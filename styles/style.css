@@ -131,7 +131,8 @@ body{
     }
 
     .imagem{
-        width: 50%;
-        height: 200px;
+        display: flex;
+        width: 35%;
+        height: 1%;;
     }
  }
