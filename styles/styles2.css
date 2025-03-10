@@ -39,8 +39,6 @@
 .cabecalho{
     padding: 2% 0 0 15%;
     background-color: var(--cor-terciaria);
-    text-align: center;
-    align-items: center;
 }
 
 .cabecalho__menu{
@@ -54,7 +52,6 @@
     text-decoration-line:line;
     text-decoration-color:var(--cor-secundaria) ;
     text-align: center;
-    margin: 2px;
     padding: 3px;
     border: 3px solid var(--cor-secundaria);
 }
